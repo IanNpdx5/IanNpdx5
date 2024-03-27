@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IanNpdx5
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning more JS, HTML, CSS, and some SQL on khanacademy
+- 🌱 I’m currently learning more JS, HTML, CSS, and some SQL all on khanacademy
 - ⬇ I have the basics down so I'm just learing extras but I haven't combined HTML with JS yet but I've done it with CSS
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to play the cello 🎻
