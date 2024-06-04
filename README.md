@@ -1,5 +1,4 @@
 - 🌱 I’m currently learning more JS, Java, and Python on khanacademy, and w3schools.
-- 😄 Pronouns: he/him
 
 <!---
 IanNpdx5/IanNpdx5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
